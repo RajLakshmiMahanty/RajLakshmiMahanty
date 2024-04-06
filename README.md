@@ -36,8 +36,5 @@ I'm Raj Lakshmi Mahanty, a passionate B.Tech graduate in Chemical Engineering fr
 - Participated in All India Hackathon representing my college
 - Various oratory and debating accolades since High School
 
-👨‍💼 **Positions of Responsibility:**
-- Coordinator of the official Literary and Debating Club
-- Sponsorship Team Head of the Art Club
-
+[![RajLakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJLAKSHMIMAHANTY)](https://github.com/anuraghazra/github-readme-stats)
 Feel free to connect with me on [GitHub](https://github.com/RajLakshmiMahanty) and explore my projects in detail! Let's collaborate and build something amazing together. 🌟
