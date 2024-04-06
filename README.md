@@ -1,40 +1,12 @@
-### Hi there! 👋
+# 💫 About Me:
+### Hi there! 👋<br><br>I'm Raj Lakshmi Mahanty, a passionate B.Tech graduate in Chemical Engineering from the prestigious Indian Institute of Technology (ISM), Dhanbad. I'm enthusiastic about technology and love to work on exciting projects. Here's a glimpse of my journey so far:<br><br>🚀 **Projects:**<br>- **Responsive Music Player:** Developed a responsive web-based music player for my institute's music club, equipped with features for song playback, track navigation, and specific song section selection.<br>  - [Project Link](https://rajlakshmimahanty.github.io/MANTHAN.html/)<br>  - **Tech Stack:** HTML, CSS, JavaScript<br><br>- **Chat Bot with Integrated AI:** Built a chatBOT with integrated AI, featuring user authentication functionality, login/signup forms, and real-time message sending capabilities using Socket.IO.<br>  - [Project Link](https://chat-bot-axvd.onrender.com)<br>  - **Tech Stack:** ReactJS, NodeJS, Socket.IO<br><br>- **Stock Performance Analyzer:** Developed a Stock Performance Analyzer website with real-time stock prices, growth comparison, risk assessment, and interactive chart visualizations.<br>  - [Project Link](https://bit.ly/3KUpM5U)<br><br>🎓 **Education:**<br>- **Indian Institute of Technology (ISM), Dhanbad**<br>  - Bachelor of Technology in Chemical Engineering<br><br>- **Tagore Academy, Jamshedpur**<br>  - 12th (ISC) - 97.4%<br>  - 10th (ICSE) - 95.4%<br><br>💼 **Skills:**<br>- **Languages:** C, C++, JavaScript, Java<br>- **Web Development:** HTML, CSS, JavaScript, Bootstrap, jQuery, ReactJS, NodeJS, Socket.IO, Django<br>- **Languages:** Proficient in Hindi, English, and Bengali<br>- **Tools:** Microsoft Office, Basic SQL, MATLAB,Aspen Software<br>- **Other Skills:** Strategic thinking, analytical problem solver, aptitude for learning, creativity in problem-solving, global collaboration<br><br>🏆 **Achievements:**<br>- Top 50 in Tata Imagination Challenge<br>- Top 1% in JEE Advance<br>- Topper in 12th (ISC) boards<br>- Participated in All India Hackathon representing my college<br>- Various oratory and debating accolades since High School<br><br><br>Feel free to connect with me on [GitHub](https://github.com/RajLakshmiMahanty) and explore my projects in detail! Let's collaborate and build something amazing together. 🌟<br>
 
-I'm Raj Lakshmi Mahanty, a passionate B.Tech graduate in Chemical Engineering from the prestigious Indian Institute of Technology (ISM), Dhanbad. I'm enthusiastic about technology and love to work on exciting projects. Here's a glimpse of my journey so far:
 
-🚀 **Projects:**
-- **Responsive Music Player:** Developed a responsive web-based music player for my institute's music club, equipped with features for song playback, track navigation, and specific song section selection.
-  - [Project Link](https://rajlakshmimahanty.github.io/MANTHAN.html/)
-  - **Tech Stack:** HTML, CSS, JavaScript
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RAJLAKSHMIMAHANTY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RAJLAKSHMIMAHANTY&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJLAKSHMIMAHANTY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **Chat Bot with Integrated AI:** Built a chatBOT with integrated AI, featuring user authentication functionality, login/signup forms, and real-time message sending capabilities using Socket.IO.
-  - [Project Link](https://chat-bot-axvd.onrender.com)
-  - **Tech Stack:** ReactJS, NodeJS, Socket.IO
-
-- **Stock Performance Analyzer:** Developed a Stock Performance Analyzer website with real-time stock prices, growth comparison, risk assessment, and interactive chart visualizations.
-  - [Project Link](https://bit.ly/3KUpM5U)
-
-🎓 **Education:**
-- **Indian Institute of Technology (ISM), Dhanbad**
-  - Bachelor of Technology in Chemical Engineering
-
-- **Tagore Academy, Jamshedpur**
-  - 12th (ISC) - 97.4%
-  - 10th (ICSE) - 95.4%
-
-💼 **Skills:**
-- **Languages:** C, C++, JavaScript, Java
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap, jQuery, ReactJS, NodeJS, Socket.IO, Django
-- **Languages:** Proficient in Hindi, English, and Bengali
-- **Tools:** Microsoft Office, Basic SQL, MATLAB,Aspen Software
-- **Other Skills:** Strategic thinking, analytical problem solver, aptitude for learning, creativity in problem-solving, global collaboration
-
-🏆 **Achievements:**
-- Top 50 in Tata Imagination Challenge
-- Top 1% in JEE Advance
-- Topper in 12th (ISC) boards
-- Participated in All India Hackathon representing my college
-- Various oratory and debating accolades since High School
-
-[![RajLakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJLAKSHMIMAHANTY)](https://github.com/anuraghazra/github-readme-stats)
-Feel free to connect with me on [GitHub](https://github.com/RajLakshmiMahanty) and explore my projects in detail! Let's collaborate and build something amazing together. 🌟
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
